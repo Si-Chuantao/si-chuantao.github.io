@@ -1,3 +1,4 @@
+https://blog.sichuantao.com/2023/05/21/%E5%BA%8F%E5%88%971-%E8%AF%8D%E6%BA%90%E6%8A%A5%E5%88%8A%E7%AC%94%E8%AE%B0/
 https://blog.sichuantao.com/2023/03/12/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/
 https://blog.sichuantao.com/about/index.html
 https://blog.sichuantao.com/2023/03/12/%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0/
@@ -15,7 +16,9 @@ https://blog.sichuantao.com/tags/%E6%A0%87%E7%AD%BE1/
 https://blog.sichuantao.com/tags/%E6%A0%87%E7%AD%BE3/
 https://blog.sichuantao.com/tags/%E6%A0%87%E7%AD%BE2/
 https://blog.sichuantao.com/tags/%E6%A0%87%E7%AD%BE4/
+https://blog.sichuantao.com/tags/%E8%8B%B1%E8%AF%AD/
 https://blog.sichuantao.com/categories/hexo/
 https://blog.sichuantao.com/categories/vue/
 https://blog.sichuantao.com/categories/java/
 https://blog.sichuantao.com/categories/sql/
+https://blog.sichuantao.com/categories/%E8%8B%B1%E8%AF%AD/
